@@ -1,0 +1,2 @@
+https://rundiz.com/articles/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-self-signed-certificate-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B9%8C
+
