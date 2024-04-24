@@ -1,0 +1,20 @@
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+x509_extensions = v3_req # The extensions to add to the self signed cert
+distinguished_name = dn
+
+[dn]
+countryName = TH
+stateOrProvinceName = Bangkok
+localityName = City
+emailAddress = webmaster@localhost.localhost
+commonName = localhost.localhost
+
+[v3_req]
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = localhost
+DNS.2 = localhost.localhost
